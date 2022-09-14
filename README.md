@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Profile Hits: [![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square)](http://hits.dwyl.com/pbannuru/pbannuru)
+[![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square)](http://hits.dwyl.com/pbannuru/pbannuru)
 
-# Im crazy about DATA
+# Im  DATA ENTHUSIAST 
 
 
 - 🔭 I’m currently working on CESC LIMITED
