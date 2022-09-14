@@ -3,7 +3,7 @@
 
 # [![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square&show=unique)](http://hits.dwyl.com/pbannuru/pbannuru)
 
-# [![visits](https://github-visit-counter.herokuapp.com/{pbannuru}/{credit_card_fraud_detection}/visits.svg)](#)
+
 
 
 # Im  DATA ENTHUSIAST 
