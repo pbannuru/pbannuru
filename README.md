@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Profile Hits: [![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square)](http://hits.dwyl.com/pbannuru/pbannuru)
+
 - 🔭 I’m currently working on CESC LIMITED
 - 🌱 I’m currently learning computer vision and NLP
 - 👯 I’m looking to collaborate on youtube and linkedin
