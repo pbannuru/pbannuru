@@ -3,7 +3,6 @@
 
 # [![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square&show=unique)](http://hits.dwyl.com/pbannuru/pbannuru)
 
-# [![https://github.com/pbannuru/unique-profile-views-counter](https://github.com/pbannuru/unique-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/pbannuru/unique-profile-views-counter)
 
 
 # Im  DATA ENTHUSIAST 
