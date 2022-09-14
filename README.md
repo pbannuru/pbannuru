@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square)](http://hits.dwyl.com/pbannuru/pbannuru)
+
+# [![HitCount](https://hits.dwyl.com/pbannuru/pbannuru.svg?style=flat-square&show=unique)](http://hits.dwyl.com/pbannuru/pbannuru)
+
 
 # Im  DATA ENTHUSIAST 
 
