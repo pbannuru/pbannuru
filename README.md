@@ -9,7 +9,7 @@
 # Im  DATA ENTHUSIAST 
 
 
-- 🔭 I’m currently working on CESC LIMITED
+- 🔭 I’m currently working in CESC LIMITED
 - 🌱 I’m currently learning computer vision and NLP
 - 👯 I’m looking to collaborate on youtube and linkedin
 - 💬 Ask me about any tech related stuff
